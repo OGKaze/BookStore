@@ -24,7 +24,7 @@
 - 🗑️ **Delete** — remove books
 - 📑 **Swagger UI** — interactive API documentation
 
-- # Russian
+# Русский
 
 # 📚 BookStore
 
