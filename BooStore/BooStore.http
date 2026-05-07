@@ -1,0 +1,6 @@
+@BooStore_HostAddress = http://localhost:5008
+
+GET {{BooStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
